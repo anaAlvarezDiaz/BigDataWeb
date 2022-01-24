@@ -5,3 +5,12 @@
 body {
     padding-top: 70px;
 }
+
+
+.jumbotron{
+    margin: auto;
+    height: 600px;
+    width: auto ;
+    background-image:url("../img/image1.png");
+    background-size: cover;
+}
