@@ -8,9 +8,12 @@ body {
 
 
 .jumbotron{
-    margin: auto;
-    height: 600px;
-    width: auto ;
-    background-image:url("../img/image1.png");
+    height: 400px;
+    background-image:url("https://blog.saleslayer.com/hubfs/big-data.jpg");
     background-size: cover;
+    font-family: 'Orbitron', sans-serif;
+    color: cornsilk;
 }
+
+
+
